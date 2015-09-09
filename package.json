@@ -1,0 +1,21 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server",
+    "start2": "node --harmony src/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies" : {
+    "express": "^4.13.3",
+    "react": "^0.13.3"
+  },
+  "devDependencies" : {
+    "babel": "^5.8.23",
+    "isomorphic-fetch": "^2.1.1"
+  }
+}
