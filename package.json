@@ -12,6 +12,7 @@
   "license": "MIT",
   "dependencies" : {
     "express": "^4.13.3",
+    "flummox": "^3.5.2",
     "react": "^0.13.3"
   },
   "devDependencies" : {
